@@ -1,0 +1,37 @@
+
+{
+    "plushies": {        
+        "categoryImg" : "../img/categ1.jpg",
+        "categoryTitle" :"Plushies",
+        "categoryDescription" : "Handcrafted plushies toys go beyond being stuffed animals; they embody a labor of love and artistry. Created with care attention, to detail and artistic flair these unique and individualized soft companions possess a charm that distinguishes them from mass produced alternatives. Each handcrafted plush toy serves as a testament, to the skill and imagination of its creator making it a cherished keepsake and a meaningful gift."
+    },
+    "bags": {    
+        "categoryImg" : "../img/categ2.jpg",
+        "categoryTitle" :"Bags",
+        "categoryDescription" : "Handcrafted bags are a reflection of the craftsmanship and uniqueness found in the fashion and accessories industry. Meticulously crafted with precision and a keen eye, for detail these one of a kind creations beautifully demonstrate the creativity and passion of their artisans. Ranging from carryalls, to evening purses handcrafted bags possess a personalized charm that distinguishes them making them not only practical but also stylish fashion statements."
+    },
+    "cushion": {    
+        "categoryImg" : "../img/categ3.jpg",
+        "categoryTitle" :"Cushion", 
+        "categoryDescription" : "Handcrafted pillows add an artistic element to any room. Made with expert craftsmanship and a creative touch these one of a kind cushions showcase the artisans commitment, to both comfort and style."
+    },
+    "accessory": {    
+        "categoryImg" : "../img/categ4.jpg",
+        "categoryTitle" :"Accessory",
+        "categoryDescription" : "lorem ipsum dolor sit amet, consectetur adip"
+
+    },
+    "tops": {    
+        "categoryImg" : "../img/categ6.png",
+        "categoryTitle" :"Tops",
+        "categoryDescription" : "lorem ipsum dolor sit amet, consectetur adip"
+
+    },
+    "caps": {    
+        "categoryImg" : "../img/categ7.png",
+        "categoryTitle" :"Caps",
+        "categoryDescription" : "lorem ipsum dolor sit amet, consectetur adip"
+
+    }
+}
+

@@ -1,0 +1,111 @@
+
+
+    {
+    "1": {    
+        "id" : "1" , 
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158700132762669056/d2db40da53cd33ca510cf44916cc95e4.jpg?ex=652e5697&is=651be197&hm=1f384cc67d817671585e5c8f499809ca536f1d2c86ff572c17057a8195221841&=&width=574&height=676",
+        "productTitle" :"Bunny ears" ,
+        "productPrice" : 30,
+        "productDescription" : "",
+        "inStock" : true ,
+        "category": "plushies"
+    },
+    "2": {    
+        "id" : "2" , 
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158700133010116659/e748f401adbb673db9a86471fd61f7bd.jpg?ex=652e5697&is=651be197&hm=03a32f91887c88be324a41ea6b1cea25689abda1135e3961304c83e94dd8a2f5&=&width=676&height=676",
+        "productTitle" :"Headphones cover" ,
+        "productPrice" : 20,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "3": {    
+        "id" : "3" , 
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158698906847301632/77084d4f631b9ab747f1655b9471b3ad.jpg?ex=652e5572&is=651be072&hm=f5e38dea86960fb45cca760facdc688114e823b539f8b8c7ffd347c329e3933c&=",
+        "productTitle" :"Bunny Plush" ,
+        "productPrice" : 25,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "4": { 
+        "id" : "4" ,    
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158696815332429835/ff2d4d15bfe33ddc4ade73c7030fb459.jpg",
+        "productTitle" :"Marcy" ,
+        "productPrice" : 30,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "caps"
+
+    },
+    "5": { 
+        "id" : "5" ,    
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158698164447100938/dae3389e93ae47bb6a6d419bc36f6619.jpg?ex=652e54c1&is=651bdfc1&hm=96505807518d6f8e9f9085c22746e05ffe3f9d2502f51c2405f3b4572b6518fe&=&width=649&height=676",
+        "productTitle" :"Kuromi's bag" ,
+        "productPrice" : 50,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "6": {
+        "id" : "6" ,     
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158698601887838248/13b5dd518861991e5015daa25095fea8.jpg?ex=652e552a&is=651be02a&hm=9860e44ded2a39980fd8ea7fadbfb991d948fddf29310a9de3925d164bec9a9c&=&width=682&height=676",
+        "productTitle" :"Star " ,
+        "productPrice" : 25,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "7": {   
+        "id" : "7" ,  
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158698601887838248/13b5dd518861991e5015daa25095fea8.jpg?ex=652e552a&is=651be02a&hm=9860e44ded2a39980fd8ea7fadbfb991d948fddf29310a9de3925d164bec9a9c&=&width=682&height=676",
+        "productTitle" :"Melody" ,
+        "productPrice" : 25,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "8": {  
+        "id" : "8" ,  
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1158701970585042974/b1e7422411841a25f035fd0be2869e90.jpg?ex=652e584d&is=651be34d&hm=94a2ee7531b05ffcbf9c185a7ab4847e285cf9d66a64af5bf3bc8568373f677f&=&width=544&height=676",
+        "productTitle" :"White bag" ,
+        "productPrice" : 40,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "9": {  
+        "id" : "9" ,  
+        "productImg" : "https://media.discordapp.net/attachments/1148368962602664059/1159555790915522691/k.jpg?ex=6531737c&is=651efe7c&hm=3d63b2036e97d5a07dac249122947ad08bdce67d3d146e4c189b0dc659f55e79&=",
+        "productTitle" :"Kuromi&Melody plush" ,
+        "productPrice" : 30,
+        "productDescription" : "",
+        "inStock" : true,
+        "category": "plushies"
+
+    },
+    "10": {   
+        "id" : "10" ,  
+        "productImg" : "https://cdn.discordapp.com/attachments/1148368962602664059/1159556682368696470/dfb302194053c80df53c1300386359bf.png?ex=65317450&is=651eff50&hm=14932515c45bf49e06d7c4d0550c7792438e0f8bb7ee860c5ebcd36805638121&",
+        "productTitle" :"A cute cow plush" ,
+        "productPrice" :15,
+        "productDescription" : "Available in Different sizes",
+        "inStock" : true
+
+    },
+    "11": {    
+        "id" : "11" , 
+        "productImg" : "https://cdn.discordapp.com/attachments/1148368962602664059/1159558241622163516/85279e3d9fe3d8b8f1b48916db575888.png?ex=653175c4&is=651f00c4&hm=859ddf6ba6f6720d83a98288d247f451167fc6522f2e458fb06abe4c8e2e339a&",
+        "productTitle" :"Bag" ,
+        "productPrice" : 25,
+        "productDescription" : "Mushroom bag design",
+        "inStock" : true
+
+    }
+}
